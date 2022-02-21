@@ -1,0 +1,39 @@
+body{
+    border: 10px groove hotpink;
+    padding: 20px;
+
+}
+.para{
+    color: rgb(76, 0, 255);
+}
+.box{
+    border: 1px solid red;
+    background-color: blueviolet;
+    height: 60px;
+    width: 50px;
+    margin: 20px;
+    padding: 20px;
+}
+.circle{
+    border: 1px solid red;
+    background-color: rgb(43, 226, 89);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%; 
+}
+
+/* .class1{
+    color: crimson;
+} */
+#id1{
+    color: crimson;
+}
+.class1{
+    color: chartreuse;
+}
+.common{
+    color: coral;
+}
+#notcommon{
+    color: chartreuse;
+}

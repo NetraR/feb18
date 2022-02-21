@@ -1,0 +1,29 @@
+1.styling
+  inline--use  inside element
+   more priority than internal and external
+
+  internal-- use below the title tag
+  more priority than external
+
+  external-- link below title
+  class and id will have more priority than all other
+
+2.Box Model 
+  content--padding--border--margin
+  
+  margin is related with browser
+  padding is related with content and border
+
+  border-solid dotted groove(3D)
+
+  border radius- to set thecorner of border
+
+3.class and id
+   id is unique for single element
+
+
+"1)create one element and it should have three stylings i.e inline,internal,external
+2)Create one box and explain box model
+3)Create border property for body it should have 10px double groove  hotpink
+4)Create Circle 
+5)class and id difference 
